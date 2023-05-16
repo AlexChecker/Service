@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/FindOrder"
+        android:title="Поиск"
+        android:icon="@drawable/find_icon"
+        />
+    <item
+        android:id="@+id/sortOrder"
+        android:title="Сортировка"
+        android:icon="@drawable/baseline_sort_24"
+        />
+    <item
+        android:id="@+id/filterOrder"
+        android:title="Фильтрация"
+        android:icon="@drawable/baseline_photo_filter_24"
+        />
+    <item
+        android:id="@+id/OrderHistory"
+        android:title="История заказов"
+        android:icon="@drawable/baseline_history_24"
+        />
+    <item
+        android:id="@+id/korzina"
+        android:title="Корзина"
+        android:icon="@drawable/baseline_shopping_cart_24"
+        />
+</menu>
